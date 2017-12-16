@@ -29,6 +29,7 @@ A curated list of blockchain-related academic papers.
 
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf)**. Nakamoto S. '08.
 - **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
+- **[Bitcoin's Academic Pedigree](http://delivery.acm.org/10.1145/3140000/3136559/p20-narayanan.pdf?ip=80.220.162.158&id=3136559&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=1017191817&CFTOKEN=98114847&__acm__=1513437598_d94b68af111d00c6e65fd28b41de969e)**. Narayanan A, Clark J. ACM Queue '17.
 
 ## Consensus
 
